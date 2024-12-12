@@ -11,8 +11,9 @@ MODEL_DIR = 'models'
 DATA_DIR = 'datasets'
 DATA_FILE = 'cleaned_survey_results_public_v2.csv'
 MODEL_NAMES = [
-    'CatBoost Regressor',
     'LGBM Regressor',
+    'KNeighbors Regressor',
+    'Decision Tree Regressor',
 ]
 
 def load_models(model_names: List[str]) -> Dict[str, Any]:
