@@ -1,0 +1,7 @@
+Github:
+https://github.com/AfshinMA-Developer/Churn_Prediction-Streamlit_App.git
+Huggingface:
+https://huggingface.co/spaces/AfshinMA/Developer_Salary_Prediction_in_2024-Gradio_App
+https://huggingface.co/spaces/AfshinMA/Developer_Salary_Prediction_in_2024-Streamlit_App
+Streamlit:
+https://churnprediction-appappgit-3f79yacqmtvz2r3lcsd5rw.streamlit.app/
