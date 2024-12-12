@@ -11,7 +11,7 @@ MODEL_DIR = 'models'
 DATA_DIR = 'datasets'
 DATA_FILE = 'cleaned_survey_results_public.csv'
 MODEL_NAMES = [
-    'CatBoost Regressor',
+    'XGBoost Regressor',
     'LGBM Regressor',
 ]
 
