@@ -9,7 +9,7 @@ from typing import List, Dict, Any
 # Constants for directories and file names
 MODEL_DIR = 'models'
 DATA_DIR = 'datasets'
-DATA_FILE = 'cleaned_survey_results_public.csv'
+DATA_FILE = 'cleaned_survey_results_public_v2.csv'
 MODEL_NAMES = [
     'XGBoost Regressor',
     'LGBM Regressor',
